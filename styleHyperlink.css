@@ -1,0 +1,23 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: 0;
+    background: #101215;
+}
+
+.footers{
+    display: flex;
+    justify-content: center;
+}
+
+.foot a{
+    text-align: center;
+    justify-content: center;
+    color: #838383;
+    text-decoration: none;
+}
+
+.iconHyperlink {
+    text-align: center;
+    color: #838383;
+}
